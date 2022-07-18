@@ -1,0 +1,3 @@
+# Routes
+
+GET     /status     controllers.CountryInfoController.status(country: String)

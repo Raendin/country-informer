@@ -1,2 +1,32 @@
 *.class
 *.log
+bin/
+/db
+.idea
+.DS_Store
+.scalafmt.conf
+.bsp
+/lib/
+/logs/
+/modules
+/project/project
+/project/target
+/target
+tmp/
+test-result
+server.pid
+*.eml
+/dist/
+.cache
+
+# SBT
+dist
+project/boot
+project/target
+project/plugins/target
+target
+.target
+
+# Play
+logs
+RUNNING_PID
